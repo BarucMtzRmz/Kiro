@@ -1,5 +1,7 @@
 # Kiro
 
+*[Leer en español](README.es.md)*
+
 A local-first RAG (Retrieval-Augmented Generation) app that reads documents
 from your own device and answers questions about them in a chat interface.
 
